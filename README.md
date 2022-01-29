@@ -6,7 +6,7 @@ This is a short Python script to convert an [Obsidian](https://obsidian.md/) vau
 
 Install `obsidian-html` by running:
 
-    sudo pip install git+https://github.com/kmaasrud/obsidian-html.git
+    sudo pip install git@github.com:pankaz/obsidian-html.git
 
 Or doing the same (without the `sudo`) as an administrator on Windows.
 
